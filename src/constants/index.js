@@ -265,7 +265,7 @@ import {
         },
       ],
       image: portfolioim,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/jothikarthi6/jothi-prakash",
     },
   ];
   
