@@ -134,7 +134,7 @@ import {
       ],
     },
     {
-      title: "Quality Analyst",
+      title: "Electrical and Electronic Engineer",
       company_name: "Neuu Labs",
       icon:     neuulabs,
       iconBg: "#E6DEDD",
