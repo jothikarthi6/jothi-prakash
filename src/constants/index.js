@@ -136,7 +136,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Feb 2018 - Jan 2019",
     points: [
-      "To Work with iot development and maintaining applications using php database and other related technologies.",
+      "To Work with iot development and maintaining applications using php database and other reated technologies.",
       "Collaborating with cross-functional teams including hardware, software connection, and debugging a high-quality products.",
       "Implementing responsive design to work with a api products and hardware boards finally testing a working flow of projects.",
       "Deployment a projects and tracking a customer support tickets such as Unix,Phpmyadmin, Pilog, VNC Server, and TeamViewer..",
